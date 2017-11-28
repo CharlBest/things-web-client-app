@@ -7,7 +7,7 @@
     {
       "name": "web",
       "root": "src",
-      "outDir": "../../ThingsWebApp.NET/Things.WebApp/Things.WebApp/wwwroot",
+      "outDir": "dist",
       "assets": [
         "assets",
         "icons",
@@ -33,7 +33,7 @@
     {
       "name": "chrome-extension",
       "root": "src",
-      "outDir": "../../ThingsChromeExtension/dist",
+      "outDir": "dist",
       "assets": [
         "assets",
         "assets.chrome-extension",
@@ -62,7 +62,7 @@
     {
       "name": "ios",
       "root": "src",
-      "outDir": "C:\\Users\\Best\\Dropbox\\Things.IOS\\www",
+      "outDir": "dist",
       "assets": [
         "assets"
       ],
